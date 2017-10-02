@@ -1,4 +1,4 @@
-package com.comscore.madmonk.scaledmle
+
 
 import org.apache.pig.EvalFunc
 import org.apache.pig.data.{Tuple, TupleFactory}
